@@ -1,0 +1,24 @@
+﻿1) Learn the steps to install Zenmap tool on the system.
+2) Study the Zenmap documentation for using its GUI.
+3) Scan the network with following scan types.
+a. Ping scan
+b. Quick scan
+c. Intense scan
+Choose following targets,
+1. scanme.nmap.org
+2. Public IP address of SFIT website
+4) Observe following features of Zenmap,
+a. Host
+b. Services
+c. Nmap output, Ports/Hosts, Topology, Host Details, Scans
+5) Take Screenshots(SS) for all features. Write observations for each SS.
+
+
+
+
+For target specifications: nmap &lt;target’s URL or IP with spaces between them&gt;
+For OS detection: nmap -O &lt;target-host’s URL or IP&gt;
+For version detection: nmap -sV &lt;target-host’s URL or IP&gt;
+SYN scan is the default and most popular scan option for good reasons. It can be performed
+quickly, scanning thousands of ports per second on a fast network not hampered by restrictive
+firewalls. It is also relatively unobtrusive and stealthy since it never completes TCP connections
