@@ -1,0 +1,22 @@
+﻿1. Download and Install Gpg4win from its official website [1]. Choose ‘Kleopatra’ as a
+key manager component during installation.
+2. Open Kleopatra interface from desktop icon.
+3. Create a new key pair (choose open PGP key pair if prompted)
+4. Save the keys on the desktop and observe the keys.
+5. Import your secret communication partner’s (your friend’s) key in Kleopatra.
+6. Write your secret message in any word processing software. (e.g. Microsoft Word,
+notepad, WordPad etc.)
+7. Encrypt this message file with recipient’s public key. Save and send it to the recipient
+through any preferred communication medium.
+8. Decrypt and observe the message received by you.
+
+
+
+
+Attach following screenshots (ss) as the output. Write a brief explanation for each.
+1. Welcome window of Kleopatra interface.
+2. SS with new key pair created.
+3. SS of private and public key.
+4. SS with imported public key.
+5. SS with message and encrypted message.
+6. SS with message decryption.

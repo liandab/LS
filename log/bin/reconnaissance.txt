@@ -1,0 +1,22 @@
+﻿Passive
+
+
+WHOIS: $ whois example.com
+Dig (Domain Information Groper): $ dig www.example.com
+$ traceroute example.com
+$ nslookup example.com
+
+
+
+
+archive.org (https://archive.org/)
+Whois (https://www.whois.com/)
+Netcraft (https://www.netcraft.com/)
+
+
+
+
+Active
+Nmap
+Metasploit 
+Wireshark
